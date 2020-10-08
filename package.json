@@ -7,7 +7,7 @@
   ],
   "_development": true,
   "_from": "git+https://github.com/dboiii/vue-lazyload-custom.git",
-  "_id": "vue-lazyload@git+https://github.com/dboiii/vue-lazyload-custom.git#1ea8d6d514d0cb029ad688b0457775cb8594d9b5",
+  "_id": "vue-lazyload@git+https://github.com/dboiii/vue-lazyload-custom.git#01b1cb89c6072455fe6a176cfee2fb56f69f7920",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/vue-lazyload",
@@ -23,7 +23,7 @@
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "git+https://github.com/dboiii/vue-lazyload-custom.git#1ea8d6d514d0cb029ad688b0457775cb8594d9b5",
+  "_resolved": "git+https://github.com/dboiii/vue-lazyload-custom.git#01b1cb89c6072455fe6a176cfee2fb56f69f7920",
   "_spec": "git+https://github.com/dboiii/vue-lazyload-custom.git",
   "_where": "/Users/vinovadev/Documents/soundfyr-web-frontend",
   "author": {
